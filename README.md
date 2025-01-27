@@ -21,7 +21,7 @@ Seamless Integration: Compatible with Telegram, Slack, and custom platforms.
 # Steps:
 
   Clone the Repository:
-     git clone(https://github.com/AdJuSingh/Ed_bot.git) 
+     git clone(https://github.com/sidhjat/Chatbot_for_Personalized_Learning) 
      
   Navigate to the Project Directory:
 
