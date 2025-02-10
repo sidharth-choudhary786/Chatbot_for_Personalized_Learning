@@ -25,7 +25,7 @@ stories:
   - intent: affirm
   - action: action_fetch_youtube_videos
   - action: utter_more_info
-  
+
 
 - story: video_flow_no
   steps:
@@ -59,4 +59,3 @@ stories:
   steps:
   - intent: nlu_fallback
   - action: utter_default
-
