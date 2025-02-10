@@ -23,7 +23,7 @@ slots:
         entity: topic
 
 
-  keywords: 
+  keywords:
     type: list
     influence_conversation: false
     mappings:
@@ -41,11 +41,11 @@ responses:
   utter_goodbye:
     - text: "Goodbye! Feel free to come back anytime."
   utter_iamabot:
-    - text: "I am an AI assistant."  
+    - text: "I am an AI assistant."
   utter_more_info:
-    - text: "If there is anything more u want to learn, please tell" 
+    - text: "If there is anything more u want to learn, please tell"
   utter_creator:
-    - text: "I was created by Shivam"   
+    - text: "I was created by Aditi"
 
 actions:
   - action_generate_content
