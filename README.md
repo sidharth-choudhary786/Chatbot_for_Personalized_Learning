@@ -69,5 +69,6 @@ Introduce advanced features for seamless functionality.
 Optimize training data for superior intent detection and entity recognition.
 Extend API integrations for enhanced capabilities.
 
+
 # Contributors
 Lead Developer: Sidharth Choudhary
